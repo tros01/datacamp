@@ -1,4 +1,4 @@
-# IBM Data Analyst
+# DataCamp
 
 The notebooks in this repository follow microcourses from [DataCamp](https://www.datacamp.com/).
 
