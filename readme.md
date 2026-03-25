@@ -50,4 +50,4 @@ Each notebook is broadly guided by and builds on the flow of tasks given by the 
 | ---- | ---- | ----------- | -------------- | ------------- |------------------ |
 | | | | | | |
 
-Uncurated notes and solutions are contained in the [course solutions folder](https://github.com/tros01/datacamp/tree/main/solutions).
+Uncurated notes and and unedited solutions are contained in the [course solutions folder](https://github.com/tros01/datacamp/tree/main/solutions).
