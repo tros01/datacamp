@@ -4,15 +4,18 @@ The notebooks in this repository follow microcourses from [DataCamp](https://www
 
 Each notebook is broadly guided by and builds on the flow of tasks given by the course.
 
-Courses taken
-
-- Introduction to SQL
-- Intermediate SQL
-- Joining Data in SQL
-- Data Manipulation in SQL
-- GARCH Models in Python
-- A/B Testing in R
-- A/B Testing in Python
+- A/B testing
+     * A/B Testing in Python
+     * A/B Testing in R
+- SQL
+     * Introduction to SQL
+     * Intermediate SQL
+     * Joining Data in SQL
+     * Data Manipulation in SQL
+- Time series modelling
+     * ARIMA Models in Python
+     * ARIMA Models in R
+     * GARCH Models in Python
 
 ## Course toolbox
 
