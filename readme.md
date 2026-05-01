@@ -7,6 +7,8 @@ Each notebook is broadly guided by and builds on the flow of tasks given by the 
 - A/B testing
      * A/B Testing in Python
      * A/B Testing in R
+- Machine learning
+     * Understanding machine learning
 - SQL
      * Introduction to SQL
      * Intermediate SQL
